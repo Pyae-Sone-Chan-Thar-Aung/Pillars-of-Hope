@@ -14,15 +14,15 @@ Your mission: Hunt. Slash. Survive.
 
 Genre: Action-Adventure / Hack & Slash
 
-Combat:
-
+**Combat:
+**
 Pure melee sword combat — fast, fluid, and brutal.
 
 Light attacks, heavy slashes, and precision strikes.
 
-Parry and dodge to survive swarms of enemies.
 
-Health System:
+
+**Health System:**
 
 A single Health Bar determines your survival.
 
@@ -30,7 +30,7 @@ Collect Healing Potions scattered across the map to stay alive.
 
 No energy or magic bar — only skill and timing keep you alive.
 
-👹 Enemies
+**👹 Enemies**
 
 Shadow Crawlers — fast and unpredictable.
 
@@ -42,7 +42,7 @@ Final Terror — an ancient nightmare lurking at the heart of the forest.
 
 Each enemy type requires different strategies — adapt or die.
 
-🧭 Goals & Objectives
+**🧭 Goals & Objectives**
 
 Defend Aldenheim by slaying all creepy enemies.
 
@@ -52,7 +52,7 @@ Defeat mini-bosses to weaken the curse’s power.
 
 Confront and destroy the Final Terror to restore peace to the village.
 
-🧍 Character Design: The Swordsman
+**🧍 Character Design: The Swordsman**
 
 A silent warrior with a scarred past.
 
@@ -60,10 +60,10 @@ Light armor, fast and agile.
 
 His sword is his lifeline — no magic, no guns, only steel.
 
-Can sprint, roll, and parry, rewarding precise timing.
 
-🗺️ Game Features
 
+**🗺️ Game Features
+**
 Fast-paced sword combat — every hit matters.
 
 No complicated systems — easy to learn, hard to master.
@@ -76,7 +76,7 @@ Dynamic enemy spawns — no two runs feel the same.
 
 Boss fights with unique mechanics and patterns.
 
-⚔️ Game Loop
+**⚔️ Game Loop**
 
 Enter a zone infested by creepy enemies.
 
@@ -90,16 +90,16 @@ Progress deeper into the cursed forest.
 
 Confront the Final Terror to lift the curse.
 
-💻 Technical Specs / Platform
+**💻 Technical Specs / Platform**
 
-Platform: PC (expandable to Console/Mobile)
+Platform: PC 
 
-Engine: Unity / Godot
+Engine: Unity 
 
-Art Style: Dark 2D pixel or voxel
+Art Style: 2D pixel or voxel
 
-Core System:
-
+**Core System:
+**
 Health bar only (no stamina/energy)
 
 Simple HUD (Health + Potion count)
