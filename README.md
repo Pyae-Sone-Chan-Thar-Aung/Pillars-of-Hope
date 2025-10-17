@@ -1,4 +1,4 @@
-🗡️ HOPE
+🗡️** HOPE**
 “When darkness falls, only the blade can bring back the light.”
 
 🌙 Story / Narrative
